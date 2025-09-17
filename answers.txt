@@ -4,4 +4,8 @@ Answer: As a version control system, Git makes collaboration among many contribu
 
 Q2: What field could data science be applied to? Give an Example.
 
-Data science could be applied to meteorology. For example, analyzing an immense amount of data concerning current weather conditions in many different locations is necessary to create reliable forecasts.
+Answer: Data science could be applied to meteorology. For example, analyzing an immense amount of data concerning current weather conditions in many different locations is necessary to create reliable forecasts.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging copies the changes from one branch into another branch, without the directly changing the branch from which changes are being merged. Rebasing effectively combines two branches into one branch, which can make the version history much simpler than otherwise but may also result in a loss of version information.
