@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Data science could be applied to meteorology. For example, analyzing an immense amount of data concerning current weather conditions in many different locations is necessary to create reliable forecasts.
